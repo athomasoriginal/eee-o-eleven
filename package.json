@@ -1,0 +1,17 @@
+{
+  "name": "eee-o-eleven",
+  "version": "0.0.0",
+  "description": "An eleventy template",
+  "main": "index.js",
+  "repository": "git@github.com:athomasoriginal/eee-o-eleven.git",
+  "author": "athomasoriginal <thomasmattacchione@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "0.12.1"
+  },
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve",
+    "dev:debug": "DEBUG=Eleventy* npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  }
+}
