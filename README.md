@@ -94,8 +94,8 @@ There is a priority order for how Data is consumed by Eleventy.  Familarize your
 
 ## Before Deploy
 
-- [ ] Add custom favicon
-- [ ] Publish sitemap
+- [ ] Add favicon
+- [ ] Update sitemap
 - [ ] Add analytics tracking
 - [ ] Update social media cards - OG, Twitter etc
 - [ ] Add Apple Touch Icon
