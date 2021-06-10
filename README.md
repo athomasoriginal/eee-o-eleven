@@ -65,8 +65,9 @@ This section includes tooling and pattern choices made for this template.
 - Example Blog Post
 - RSS feed
 - Trailing slashes
-- Open Graph Meta Tags
-- Twitter Cards 
+- Social sharing previews
+  - Open Graph
+  - Twitter
 
 ## Project Commands
 
