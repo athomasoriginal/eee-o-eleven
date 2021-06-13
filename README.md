@@ -96,6 +96,7 @@ There is a priority order for how Data is consumed by Eleventy.  Familarize your
 
 - [ ] Add favicon
 - [ ] Update sitemap
+  - [ ] Consider whether or not to include landing pages
 - [ ] Add analytics tracking
 - [ ] Update social media cards - OG, Twitter etc
 - [ ] Add Apple Touch Icon
