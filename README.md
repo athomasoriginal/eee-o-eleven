@@ -91,6 +91,7 @@ There is a priority order for how Data is consumed by Eleventy.  Familarize your
 ## Before Dev
 
 - [ ] Update `_data/site.json`
+  - [ ] Update the URL links + Ensure robots.txt is setup correctly
 
 ## Before Deploy
 
