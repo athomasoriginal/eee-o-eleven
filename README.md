@@ -39,11 +39,6 @@ Be sure to have the following tools installed
   git clone https://github.com/athomasoriginal/eee-o-eleven.git .
   ```
   > The `.` at the end of the above command clones the projects root dirs/files
-- Move into the project directory
-  ```command
-  cd your-project-name
-  ```
-  > You may want to even rename this directory while your at it
 - Install project dependencies
   ```command
   yarn install
